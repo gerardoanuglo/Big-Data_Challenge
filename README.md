@@ -28,3 +28,22 @@ Test ETL skills
 
 
 5. Load the DataFrames that correspond to tables into an RDS instance.
+
+
+## Tools Used:
+
+
+1. AWS s3 buckets
+
+
+2. AWS RDS
+
+
+3. Google Collab (cloud based jupyter notebook)
+
+
+4. Pysparks
+
+
+5. Postgres SQL
+
